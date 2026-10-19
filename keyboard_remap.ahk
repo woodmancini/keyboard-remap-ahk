@@ -48,5 +48,10 @@ RAlt::Shift
     j::-
     k::=
     l::#
-    
+
+    a::!
+    s::"
+    c::SendText "{"
+    f::SendText "(" 
+
 #HotIf
